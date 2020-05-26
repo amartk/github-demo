@@ -1,7 +1,9 @@
 This is a test file
+This is remote line addition
 This is masterbranch second line
 This is new second line in masterbranch
-This is second line in masterbranch
+This is second line in remote commit
 This is third line in realworkbranch
 This is fourth line in realworkbranch
 This is fifth line in masterbranch
+This is remote line at the end
